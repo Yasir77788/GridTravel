@@ -18,7 +18,7 @@ public class GridTravel
 	* @param m is number of rows
 	* @param n is number of columns
 	* @return an integer
-    */
+        */
 	public static int findNumberOfPaths (int m, int n)
 	{
 		if(m == 1 && n == 1)
